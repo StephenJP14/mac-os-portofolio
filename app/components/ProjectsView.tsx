@@ -18,10 +18,10 @@ interface Project {
 
 const projects: Project[] = [
     {
-        id: 'dering',
-        name: 'Dering',
+        id: 'sila',
+        name: 'SILA',
         description: 'Secure video communication platform for government correctional facilities (LAPAS).',
-        longDescription: 'Dering is a high-security video call system engineered for Indonesian correctional facilities. It facilitates monitored, encrypted remote communication between inmates and families, ensuring strict compliance with government security protocols.',
+        longDescription: 'SILA is a high-security video call system engineered for Indonesian correctional facilities. It facilitates monitored, encrypted remote communication between inmates and families, ensuring strict compliance with government security protocols.',
         features: [
             'Node.js and PostgreSQL backend architecture',
             'Real-time facial verification workflows for visitor authentication',
@@ -29,7 +29,7 @@ const projects: Project[] = [
             'Strict server configurations for secure government infrastructure'
         ],
         icon: Video,
-        images: ['/Dering_1.png', '/Dering_2.png']
+        images: ['/SILA_1.png', '/SILA_2.png', '/SILA_3.png']
     },
     {
         id: 'zyrex-rag',

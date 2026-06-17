@@ -16,9 +16,10 @@ A highly interactive, OS-inspired portfolio website built with **Next.js 15**, *
 
 ### 🤖 Featured Projects
 - **Zyrex Customer Service RAG**: A specialized AI chatbot using **ColPali architecture** and **Guard Rails** to automate technical support for Zyrex device manuals.
-- **Dering**: A high-security video communication platform for Indonesian correctional facilities.
+- **SILA**: A high-security video communication platform for Indonesian correctional facilities.
 - **AILO**: A local multimodal AI interface for privacy-focused assistance.
 - **Real-Time Vehicle Tracking**: Fleet management system with live GPS data visualization.
+
 
 ### 🎮 Built-in Apps
 - **Space Invaders**: A fully playable retro game built directly into the OS.

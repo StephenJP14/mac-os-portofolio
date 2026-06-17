@@ -59,8 +59,8 @@ const ExperienceContent = () => (
         <span className="text-purple-400">key_projects:</span>
         <div className="pl-4 border-l-2 border-gray-700 ml-2 mt-1">
             <span className="text-gray-500"># Production-level implementations</span><br />
-            <span className="text-gray-400">-</span> <span className="text-blue-400">name:</span> <span className="text-green-400">"Dering (Secure Gov Video Call)"</span> [cite: 38]<br />
-            <span className="text-gray-400">-</span> <span className="text-blue-400">name:</span> <span className="text-green-400">"RAG Chatbot Service (Zyrex)"</span> [cite: 29, 33]<br />
+            <span className="text-gray-400">-</span> <span className="text-blue-400">name:</span> <span className="text-green-400">"SILA (Secure Gov Video Call)"</span> [cite: 38]<br />
+            <span className="text-gray-400">-</span> <span className="text-blue-400">name:</span> <span className="text-green-400">"Education RAG (Thesis)"</span> [cite: 29, 33]<br />
             <span className="text-gray-400">-</span> <span className="text-blue-400">name:</span> <span className="text-green-400">"Real-time Vehicle Tracking"</span> [cite: 24]<br />
             <span className="text-gray-400">-</span> <span className="text-blue-400">name:</span> <span className="text-green-400">"Enterprise GitLab CI/CD"</span> [cite: 44]<br />
         </div>
