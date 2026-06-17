@@ -2,10 +2,8 @@
 
 A highly interactive, OS-inspired portfolio website built with **Next.js 15**, **Tailwind CSS**, and **Lucide React**. This project simulates a desktop environment with windows, a functional dock, and integrated applications.
 
-![Portfolio Preview](/RAG_Zyrex.png) <!-- Or any other good screenshot you prefer as primary -->
-
 ## 🚀 Live Demo
-**[portfolio-link.vercel.app](https://portfolio-link.vercel.app)** *(Ganti dengan link Vercel kamu setelah deploy)*
+**[portfolio-link.vercel.app](https://mac-os-portofolio-dy26m8l7c-stephens-projects-d4a1057e.vercel.app?_vercel_share=D7a67D4KksnnLO9UhOmVqBxHrkCExp8C)** *(Ganti dengan link Vercel kamu setelah deploy)*
 
 ---
 
